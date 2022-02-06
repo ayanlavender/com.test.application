@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import com.test.application.testing.Student;
 import com.test.application.testing.StudentDataBase;
 
-public class testingduplicate {
+public class testingduplicate { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

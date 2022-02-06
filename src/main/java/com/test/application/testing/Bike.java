@@ -1,6 +1,6 @@
 package com.test.application.testing;
 
-public class Bike {
+public class Bike { 
 
     private String name;
     private String model;

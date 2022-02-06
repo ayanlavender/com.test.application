@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.function.Supplier;
 
-public class StudentDataBase { 
+public class StudentDataBase {  
 
     public static Supplier<Student> studentSupplier = () -> {
         return  new Student("Adam",2,4.0,"male", Arrays.asList("swimming", "basketball","volleyball"));
